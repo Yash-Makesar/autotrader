@@ -1,0 +1,5 @@
+id,direction,entry,sl,tp1,tp2,units,open_time,exit_price,exit_time,exit_reason,pnl_usd,pnl_inr,balance,pattern,reason,confidence,news_clear
+1,BUY,4707.2,4702.2,4713.2,4717.2,0.05,2026-05-13T07:27:29.642129+00:00,4714.5,2026-05-13T07:29:30.789377+00:00,TP1_HIT,0.37,34.86,50.37,bullish close near swing low with lower wick,price bounces near swing low with RSI <65,medium,True
+1,BUY,4691.61,4686.61,4697.61,4701.61,0.05,2026-05-13T09:46:18.586941+00:00,4697.87,2026-05-13T09:53:22.596049+00:00,TP1_HIT,0.31,29.89,50.31,bullish close near swing high with lower wick,price action near swing high with bullish momentum,medium,True
+1,BUY,4700.93,4695.93,4706.93,4710.93,0.05,2026-05-13T10:44:19.158533+00:00,4695.25,2026-05-13T10:45:20.601385+00:00,SL_HIT,-0.28,-27.12,49.72,strong bullish close with lower wick,price action suggests bullish reversal near swing low,medium,True
+2,BUY,4694.0,4689.0,4700.0,4704.0,0.05,2026-05-13T11:22:27.314137+00:00,4700.09,2026-05-13T11:24:29.641036+00:00,TP1_HIT,0.3,29.08,50.02,strong bullish close with lower wick near swing high,bullish close with lower wick and RSI < 65,medium,True
